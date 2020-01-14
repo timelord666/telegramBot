@@ -39,7 +39,7 @@ namespace TelegramBot
 
     class TelegramAPI
     {
-        const String API_KEY = "877006364:AAGavRTDRBIzOoxOS3GRaBWVJ9E0Wsui_CQ";
+        const String API_KEY = "";
         const String API_URL = "https://api.telegram.org/bot" + API_KEY + "/";
 
         RestClient RC = new RestClient();
