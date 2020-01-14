@@ -1,2 +1,2 @@
 # telegramBot
-telegram Bot, no libs native cs.
+telegram Bot, no libs for api, native cs.
